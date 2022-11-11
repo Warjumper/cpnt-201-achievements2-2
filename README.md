@@ -17,7 +17,7 @@
 - In the interest of saving time, I have copied some of the remaining CSS code for the finished app.
 - By the time I hit part 9, I was lost in the sauce, confused and in too deep. The nice part ow is that things started to become more organized as it went further ahead.
 - Having an error come up asking me to fill out the entire form is a great feature and cool to see implemented.
-- two way data binding confuses me. This will require further google-fu.
+- Two way data binding confuses me. This will require further google-fu.
 
 Overall, I was lost as to why the magic worked by the time I finished. I think delveing further into Vue or working through similar tutorials in the future would help me. I really liked the addition of being able to view some of the codepen, even if I couldn't touch it, to help with some of my syntax errors.
 
